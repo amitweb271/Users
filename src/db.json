@@ -1,0 +1,20 @@
+{
+    "users": [
+      {
+        "name": "Amichand yadav",
+        "username": "amit540",
+        "email": "amichandyadav696@gmail.com",
+        "phone": "9373757270",
+        "website": "amit.com",
+        "id": 1
+      },
+      {
+        "name": "",
+        "username": "",
+        "email": "",
+        "phone": "",
+        "website": "",
+        "id": 2
+      }
+    ]
+  }
